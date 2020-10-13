@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku Interactive game implemented in Advanced Programming course in the faculty of Computer Science, Tel-Aviv University
+Interactive Sudoku game implemented in Advanced Programming course as a final project.
